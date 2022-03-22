@@ -1,0 +1,15 @@
+# Description
+写一个函数，用来计算两数之和
+##### Input
+a 和 b
+##### Output
+a 和 b 的和
+
+# Test
+[[1, 1], 2]
+[[0, 0], 0]
+
+# Answer
+function helloWorld() {
+  return 'hello, world'
+}

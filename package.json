@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "node app/index"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
